@@ -20,6 +20,7 @@ from cleaning and exploring datasets to extracting insights and communicating re
   - pandas
   - numpy
   - matplotlib
+- SQL
 - Data cleaning & preprocessing
 - Exploratory Data Analysis (EDA)
 - Data visualization & storytelling
@@ -51,9 +52,10 @@ from cleaning and exploring datasets to extracting insights and communicating re
 
 ## ▶️ How to Use This Repository
 
-1. Clone or download the repository  
-2. Open the notebooks in **Jupyter Notebook or VS Studio**  
-3. Run the cells in order to reproduce the analyses  
+1. View coding of SQL exercises
+2. Clone or download the repository
+3. Open the notebooks in **Jupyter Notebook or VS Studio**  
+4. Run the cells in order to reproduce the analyses  
 
 Each notebook contains explanations alongside the code to clarify the analytical steps.
 
